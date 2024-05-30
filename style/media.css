@@ -1,0 +1,179 @@
+@media(max-width:1700px) {
+    .nav__text{
+        font-size: 20px;
+    }
+    span{
+        font-size: 25px;
+    }
+    .nav2__text {
+       
+        font-size: 25px;
+       
+        
+      
+    }
+    .main__card{
+        width: 300px;
+    
+    }
+    .main__cards {
+       
+    gap: 50px;
+    }
+}
+@media(max-width:1400px) {
+    .nav__text{
+        font-size: 15px;
+    }
+    span{
+        font-size: 20px;
+    }
+    .nav2__text {
+       
+        font-size: 20px;
+       
+        
+      
+    }
+    .main__card{
+        width: 250px;
+    
+    }
+    .main__cards {
+       
+    gap: 50px;
+    }
+}
+@media(max-width:1300px) {
+    
+
+    .header__items{
+       
+        margin-right: 0;
+        margin-bottom: 10%;
+      
+    }
+}
+
+@media(max-width:1200px) {
+  
+    .main__card{
+        width: 225px;
+    
+    }
+ 
+}
+
+@media(max-width:1100px) {
+    
+ 
+    .main__card{
+        width: 200px;
+    
+    }
+  
+}
+@media(max-width:1000px) {
+    
+    .nav__text{
+        font-size: 15px;
+    }
+    span{
+        font-size: 15px;
+    }
+    .header__title {
+      
+    font-size: 35px;
+   
+    }
+}
+@media(max-width:900px) {
+    
+.nav{
+    flex-direction: column;
+    gap: 20px;
+}
+.main__cards{
+    max-width: 500px;
+
+    flex-wrap: wrap;
+}
+
+}
+@media(max-width:800px) {
+    
+.main__title{
+    font-size: 35px;
+}
+.footer__text{
+font-size: 20px;
+}
+.nav__text{
+    width: 360px;
+text-align: center;
+}
+.header__items{
+       
+    margin-right: 0;
+    margin-bottom: 0;
+ 
+  align-items: center;
+}
+.header__content {
+   
+ 
+align-items: center;
+ 
+}
+}
+@media(max-width:700px) {
+    .main__title{
+        font-size: 30px;
+    }
+}
+@media(max-width:600px) {
+    .main__title{
+        font-size: 25px;
+    }
+    .main__cards{
+      align-items: center;
+      justify-content: center;
+    }
+    .footer__text{
+       width: 400px;
+       text-align: center;
+}
+}
+@media(max-width:500px) {
+    .main__title{
+        font-size: 23px;
+    }
+    
+   
+.nav2__text{
+width: 400px;
+text-align: center;
+padding-right: 20px;
+}
+}
+@media(max-width:400px) {
+    .main__title{
+      width: 300px;
+      text-align: center;
+    }
+    
+    .footer__text{
+       font-size: 15px;
+       width: 300px;
+}
+.nav2__text{
+width: 300px;
+text-align: center;
+
+
+}
+.header__title {
+    text-align: center;
+   
+}
+}
